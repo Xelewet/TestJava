@@ -11,6 +11,7 @@ public class Main {
         boolean ok = false;
         for (int i = 0; i < tr; i ++) {
             //change
+            // another change
             int num = cin.nextInt();
             if (num > rnd) {
                 System.out.println("Мое число меньше.");
