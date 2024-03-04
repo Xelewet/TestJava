@@ -10,6 +10,7 @@ public class Main {
         int tr = 8;
         boolean ok = false;
         for (int i = 0; i < tr; i ++) {
+            //change
             int num = cin.nextInt();
             if (num > rnd) {
                 System.out.println("Мое число меньше.");
